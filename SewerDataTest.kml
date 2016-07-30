@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 
-	<name>SewerDataTest.kml</name>
-	<open>1</open>
+	
 	<!--<Style id="PolyStyle00">
 		<IconStyle>
 	        <Icon>
@@ -25,22 +24,9 @@
 
 		<name>SewerTreatmentPlant</name>
 		<visibility>1</visibility>-->
-		<Placemark>
-			<name>BROOME NORTH</name>
-			<visibility>1</visibility>
-			<ExtendedData>
-				<SchemaData schemaUrl="#SewerTreatmentPlant">
-					<SimpleData name="Name">BROOME NORTH</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<gx:balloonVisibility>1</gx:balloonVisibility>
-			<Point>
-				<coordinates>122.2850820479982,-17.9134020641539,0</coordinates>
-			</Point>
-		</Placemark>
+		
 		<Placemark>
 			<name>SUBIACO</name>
-			<visibility>1</visibility>
 			<description>SUBIACO</description>
 			<gx:balloonVisibility>1</gx:balloonVisibility>
 			<Point>
