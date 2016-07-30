@@ -18,7 +18,6 @@
 	</Style>
 		<Placemark>
 			<name>SUBIACO</name>
-			<description>SUBIACO</description>
 			<gx:balloonVisibility>1</gx:balloonVisibility>
 			<Point>
 				<coordinates>115.7933852703141,-31.95445396248033,0</coordinates>
