@@ -18,10 +18,10 @@
 	</Style>
 	<Folder>
 		<name>SewerTreatmentPlant</name>
-		<visibility>0</visibility>
+		<visibility>1</visibility>
 		<Placemark>
 			<name>BROOME NORTH</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BROOME NORTH</SimpleData>
@@ -33,7 +33,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MILLSTREAM DEPOT</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MILLSTREAM DEPOT</SimpleData>
@@ -45,7 +45,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MANJIMUP</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MANJIMUP</SimpleData>
@@ -57,7 +57,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KARRATHA NO1</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KARRATHA NO1</SimpleData>
@@ -69,7 +69,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KARRATHA LIA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KARRATHA LIA</SimpleData>
@@ -81,7 +81,7 @@
 		</Placemark>
 		<Placemark>
 			<name>HARVEY</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">HARVEY</SimpleData>
@@ -93,7 +93,7 @@
 		</Placemark>
 		<Placemark>
 			<name>SUBIACO</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">SUBIACO</SimpleData>
@@ -105,7 +105,7 @@
 		</Placemark>
 		<Placemark>
 			<name>SOUTH HEDLAND</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">SOUTH HEDLAND</SimpleData>
@@ -117,7 +117,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WOODMAN POINT</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WOODMAN POINT</SimpleData>
@@ -129,7 +129,7 @@
 		</Placemark>
 		<Placemark>
 			<name>DUNSBOROUGH NO2</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">DUNSBOROUGH NO2</SimpleData>
@@ -141,7 +141,7 @@
 		</Placemark>
 		<Placemark>
 			<name>POINT PERON</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">POINT PERON</SimpleData>
@@ -153,7 +153,7 @@
 		</Placemark>
 		<Placemark>
 			<name>GREENHEAD</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">GREENHEAD</SimpleData>
@@ -165,7 +165,7 @@
 		</Placemark>
 		<Placemark>
 			<name>DONGARA - DENISON</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">DONGARA - DENISON</SimpleData>
@@ -177,7 +177,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KALBARRI</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KALBARRI</SimpleData>
@@ -189,7 +189,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MOORA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MOORA</SimpleData>
@@ -201,7 +201,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MT BARKER</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MT BARKER</SimpleData>
@@ -213,7 +213,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WYNDHAM</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WYNDHAM</SimpleData>
@@ -225,7 +225,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ESPERANCE NO1</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">ESPERANCE NO1</SimpleData>
@@ -237,7 +237,7 @@
 		</Placemark>
 		<Placemark>
 			<name>SEPTAGE FACILITY</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">SEPTAGE FACILITY</SimpleData>
@@ -249,7 +249,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BUNBURY NO2</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BUNBURY NO2</SimpleData>
@@ -261,7 +261,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BEVERLEY</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BEVERLEY</SimpleData>
@@ -273,7 +273,7 @@
 		</Placemark>
 		<Placemark>
 			<name>GNOWANGERUP</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">GNOWANGERUP</SimpleData>
@@ -285,7 +285,7 @@
 		</Placemark>
 		<Placemark>
 			<name>NARNGULU</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">NARNGULU</SimpleData>
@@ -297,7 +297,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WILUNA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WILUNA</SimpleData>
@@ -309,7 +309,7 @@
 		</Placemark>
 		<Placemark>
 			<name>CHRISTMAS ISLAND</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">CHRISTMAS ISLAND</SimpleData>
@@ -321,7 +321,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WAROONA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WAROONA</SimpleData>
@@ -333,7 +333,7 @@
 		</Placemark>
 		<Placemark>
 			<name>GREENOUGH-ON-SEA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">GREENOUGH-ON-SEA</SimpleData>
@@ -345,7 +345,7 @@
 		</Placemark>
 		<Placemark>
 			<name>CRANBROOK</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">CRANBROOK</SimpleData>
@@ -357,7 +357,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WICKHAM</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WICKHAM</SimpleData>
@@ -369,7 +369,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KOJONUP</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KOJONUP</SimpleData>
@@ -381,7 +381,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WASTEWATER</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WASTEWATER</SimpleData>
@@ -393,7 +393,7 @@
 		</Placemark>
 		<Placemark>
 			<name>CORAL BAY</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">CORAL BAY</SimpleData>
@@ -405,7 +405,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ROTTNEST</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">ROTTNEST</SimpleData>
@@ -417,7 +417,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MARGARET RIVER NO2</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MARGARET RIVER NO2</SimpleData>
@@ -429,7 +429,7 @@
 		</Placemark>
 		<Placemark>
 			<name>NEW NORCIA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">NEW NORCIA</SimpleData>
@@ -441,7 +441,7 @@
 		</Placemark>
 		<Placemark>
 			<name>GERALDTON NO2</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">GERALDTON NO2</SimpleData>
@@ -453,7 +453,7 @@
 		</Placemark>
 		<Placemark>
 			<name>LANCELIN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">LANCELIN</SimpleData>
@@ -465,7 +465,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MANDURAH NO2 (HALLS HEAD)</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MANDURAH NO2 (HALLS HEAD)</SimpleData>
@@ -477,7 +477,7 @@
 		</Placemark>
 		<Placemark>
 			<name>YORK</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">YORK</SimpleData>
@@ -489,7 +489,7 @@
 		</Placemark>
 		<Placemark>
 			<name>AUGUSTA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">AUGUSTA</SimpleData>
@@ -501,7 +501,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ROTTNEST (PRIVATE)</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">ROTTNEST (PRIVATE)</SimpleData>
@@ -513,7 +513,7 @@
 		</Placemark>
 		<Placemark>
 			<name>HALLS CREEK</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">HALLS CREEK</SimpleData>
@@ -525,7 +525,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KARRATHA NO2</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KARRATHA NO2</SimpleData>
@@ -537,7 +537,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ONSLOW</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">ONSLOW</SimpleData>
@@ -549,7 +549,7 @@
 		</Placemark>
 		<Placemark>
 			<name>HORROCKS</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">HORROCKS</SimpleData>
@@ -561,7 +561,7 @@
 		</Placemark>
 		<Placemark>
 			<name>CAPEL</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">CAPEL</SimpleData>
@@ -573,7 +573,7 @@
 		</Placemark>
 		<Placemark>
 			<name>DARDANUP</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">DARDANUP</SimpleData>
@@ -585,7 +585,7 @@
 		</Placemark>
 		<Placemark>
 			<name>LAVERTON</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">LAVERTON</SimpleData>
@@ -597,7 +597,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KWINANA RECLAMATION SCHEME</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KWINANA RECLAMATION SCHEME</SimpleData>
@@ -609,7 +609,7 @@
 		</Placemark>
 		<Placemark>
 			<name>CORRIGIN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">CORRIGIN</SimpleData>
@@ -621,7 +621,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KELLERBERRIN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KELLERBERRIN</SimpleData>
@@ -633,7 +633,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MECKERING</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MECKERING</SimpleData>
@@ -645,7 +645,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MUKINBUDIN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MUKINBUDIN</SimpleData>
@@ -657,7 +657,7 @@
 		</Placemark>
 		<Placemark>
 			<name>QUAIRADING</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">QUAIRADING</SimpleData>
@@ -669,7 +669,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WONGAN HILLS</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WONGAN HILLS</SimpleData>
@@ -681,7 +681,7 @@
 		</Placemark>
 		<Placemark>
 			<name>DONNYBROOK</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">DONNYBROOK</SimpleData>
@@ -693,7 +693,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WALPOLE</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WALPOLE</SimpleData>
@@ -705,7 +705,7 @@
 		</Placemark>
 		<Placemark>
 			<name>NEWMAN (PRIVATE)</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">NEWMAN (PRIVATE)</SimpleData>
@@ -717,7 +717,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MUNDARING</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MUNDARING</SimpleData>
@@ -729,7 +729,7 @@
 		</Placemark>
 		<Placemark>
 			<name>HARDING DAM DISPOSAL</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">HARDING DAM DISPOSAL</SimpleData>
@@ -741,7 +741,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WYALKATCHEM</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WYALKATCHEM</SimpleData>
@@ -753,7 +753,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ALBANY EFFLUENT</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">ALBANY EFFLUENT</SimpleData>
@@ -765,7 +765,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BEENYUP</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BEENYUP</SimpleData>
@@ -777,7 +777,7 @@
 		</Placemark>
 		<Placemark>
 			<name>NARROGIN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">NARROGIN</SimpleData>
@@ -789,7 +789,7 @@
 		</Placemark>
 		<Placemark>
 			<name>DENHAM</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">DENHAM</SimpleData>
@@ -801,7 +801,7 @@
 		</Placemark>
 		<Placemark>
 			<name>DERBY</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">DERBY</SimpleData>
@@ -813,7 +813,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KAMBALDA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KAMBALDA</SimpleData>
@@ -825,7 +825,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WESTFIELD WWTP - FUTURE</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WESTFIELD WWTP - FUTURE</SimpleData>
@@ -837,7 +837,7 @@
 		</Placemark>
 		<Placemark>
 			<name>EAST ROCKINGHAM</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">EAST ROCKINGHAM</SimpleData>
@@ -849,7 +849,7 @@
 		</Placemark>
 		<Placemark>
 			<name>PINGELLY</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">PINGELLY</SimpleData>
@@ -861,7 +861,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BINNINGUP</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BINNINGUP</SimpleData>
@@ -873,7 +873,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MANDURAH NO1 (GORDON RD)</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MANDURAH NO1 (GORDON RD)</SimpleData>
@@ -885,7 +885,7 @@
 		</Placemark>
 		<Placemark>
 			<name>PORT HEDLAND</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">PORT HEDLAND</SimpleData>
@@ -897,7 +897,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MANDURAH NO4 (TIMS THICKET)</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MANDURAH NO4 (TIMS THICKET)</SimpleData>
@@ -909,7 +909,7 @@
 		</Placemark>
 		<Placemark>
 			<name>CARNARVON</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">CARNARVON</SimpleData>
@@ -921,7 +921,7 @@
 		</Placemark>
 		<Placemark>
 			<name>NANNUP</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">NANNUP</SimpleData>
@@ -933,7 +933,7 @@
 		</Placemark>
 		<Placemark>
 			<name>NEWDEGATE</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">NEWDEGATE</SimpleData>
@@ -945,7 +945,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ENEABBA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">ENEABBA</SimpleData>
@@ -957,7 +957,7 @@
 		</Placemark>
 		<Placemark>
 			<name>TWO ROCKS</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">TWO ROCKS</SimpleData>
@@ -969,7 +969,7 @@
 		</Placemark>
 		<Placemark>
 			<name>TAMBELLUP</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">TAMBELLUP</SimpleData>
@@ -981,7 +981,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ALKIMOS</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">ALKIMOS</SimpleData>
@@ -993,7 +993,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BROOME</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BROOME</SimpleData>
@@ -1005,7 +1005,7 @@
 		</Placemark>
 		<Placemark>
 			<name>AUSTRALIND</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">AUSTRALIND</SimpleData>
@@ -1017,7 +1017,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WILLIAMS</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WILLIAMS</SimpleData>
@@ -1029,7 +1029,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BULLSBROOK</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BULLSBROOK</SimpleData>
@@ -1041,7 +1041,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KWINANA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KWINANA</SimpleData>
@@ -1053,7 +1053,7 @@
 		</Placemark>
 		<Placemark>
 			<name>YANCHEP</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">YANCHEP</SimpleData>
@@ -1065,7 +1065,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MUJA POWER STATION</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MUJA POWER STATION</SimpleData>
@@ -1077,7 +1077,7 @@
 		</Placemark>
 		<Placemark>
 			<name>FITZROY CROSSING</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">FITZROY CROSSING</SimpleData>
@@ -1089,7 +1089,7 @@
 		</Placemark>
 		<Placemark>
 			<name>HYDEN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">HYDEN</SimpleData>
@@ -1101,7 +1101,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BRIDGETOWN NO2</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BRIDGETOWN NO2</SimpleData>
@@ -1113,7 +1113,7 @@
 		</Placemark>
 		<Placemark>
 			<name>COLLIE</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">COLLIE</SimpleData>
@@ -1125,7 +1125,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KATANNING</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KATANNING</SimpleData>
@@ -1137,7 +1137,7 @@
 		</Placemark>
 		<Placemark>
 			<name>LEEMAN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">LEEMAN</SimpleData>
@@ -1149,7 +1149,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MARGARET RIVER</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MARGARET RIVER</SimpleData>
@@ -1161,7 +1161,7 @@
 		</Placemark>
 		<Placemark>
 			<name>EXMOUTH</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">EXMOUTH</SimpleData>
@@ -1173,7 +1173,7 @@
 		</Placemark>
 		<Placemark>
 			<name>GNARABUP BEACH (PREVELLY)</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">GNARABUP BEACH (PREVELLY)</SimpleData>
@@ -1185,7 +1185,7 @@
 		</Placemark>
 		<Placemark>
 			<name>DENMARK</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">DENMARK</SimpleData>
@@ -1197,7 +1197,7 @@
 		</Placemark>
 		<Placemark>
 			<name>CERVANTES</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">CERVANTES</SimpleData>
@@ -1209,7 +1209,7 @@
 		</Placemark>
 		<Placemark>
 			<name>LEDGE POINT</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">LEDGE POINT</SimpleData>
@@ -1221,7 +1221,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WILLIAMS NO 2</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WILLIAMS NO 2</SimpleData>
@@ -1233,7 +1233,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ROEBOURNE</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">ROEBOURNE</SimpleData>
@@ -1245,7 +1245,7 @@
 		</Placemark>
 		<Placemark>
 			<name>NORTHAM</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">NORTHAM</SimpleData>
@@ -1257,7 +1257,7 @@
 		</Placemark>
 		<Placemark>
 			<name>PEMBERTON</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">PEMBERTON</SimpleData>
@@ -1269,7 +1269,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BRUNSWICK JUNCTION</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BRUNSWICK JUNCTION</SimpleData>
@@ -1281,7 +1281,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BUREKUP</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BUREKUP</SimpleData>
@@ -1293,7 +1293,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ALBANY NO 2</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">ALBANY NO 2</SimpleData>
@@ -1305,7 +1305,7 @@
 		</Placemark>
 		<Placemark>
 			<name>CUNDERDIN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">CUNDERDIN</SimpleData>
@@ -1317,7 +1317,7 @@
 		</Placemark>
 		<Placemark>
 			<name>LEONORA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">LEONORA</SimpleData>
@@ -1329,7 +1329,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MERREDIN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MERREDIN</SimpleData>
@@ -1341,7 +1341,7 @@
 		</Placemark>
 		<Placemark>
 			<name>NAREMBEEN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">NAREMBEEN</SimpleData>
@@ -1353,7 +1353,7 @@
 		</Placemark>
 		<Placemark>
 			<name>TOODYAY</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">TOODYAY</SimpleData>
@@ -1365,7 +1365,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WUNDOWIE</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WUNDOWIE</SimpleData>
@@ -1377,7 +1377,7 @@
 		</Placemark>
 		<Placemark>
 			<name>WAGIN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">WAGIN</SimpleData>
@@ -1389,7 +1389,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KULIN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KULIN</SimpleData>
@@ -1401,7 +1401,7 @@
 		</Placemark>
 		<Placemark>
 			<name>ESPERANCE NO2</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">ESPERANCE NO2</SimpleData>
@@ -1413,7 +1413,7 @@
 		</Placemark>
 		<Placemark>
 			<name>LAKE ARGYLE</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">LAKE ARGYLE</SimpleData>
@@ -1425,7 +1425,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BINDI BINDI (PRIVATE)</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BINDI BINDI (PRIVATE)</SimpleData>
@@ -1437,7 +1437,7 @@
 		</Placemark>
 		<Placemark>
 			<name>JURIEN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">JURIEN</SimpleData>
@@ -1449,7 +1449,7 @@
 		</Placemark>
 		<Placemark>
 			<name>PINJARRA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">PINJARRA</SimpleData>
@@ -1461,7 +1461,7 @@
 		</Placemark>
 		<Placemark>
 			<name>GERALDTON NORTH</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">GERALDTON NORTH</SimpleData>
@@ -1473,7 +1473,7 @@
 		</Placemark>
 		<Placemark>
 			<name>NOWERGUP</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">NOWERGUP</SimpleData>
@@ -1485,7 +1485,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BREMER BAY</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BREMER BAY</SimpleData>
@@ -1497,7 +1497,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KEMERTON</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KEMERTON</SimpleData>
@@ -1509,7 +1509,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KUNUNURRA</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KUNUNURRA</SimpleData>
@@ -1521,7 +1521,7 @@
 		</Placemark>
 		<Placemark>
 			<name>KARRATHA NO4</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">KARRATHA NO4</SimpleData>
@@ -1533,7 +1533,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BODDINGTON</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BODDINGTON</SimpleData>
@@ -1545,7 +1545,7 @@
 		</Placemark>
 		<Placemark>
 			<name>HOPETOUN</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">HOPETOUN</SimpleData>
@@ -1557,7 +1557,7 @@
 		</Placemark>
 		<Placemark>
 			<name>BUSSELTON</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">BUSSELTON</SimpleData>
@@ -1569,7 +1569,7 @@
 		</Placemark>
 		<Placemark>
 			<name>THREE SPRINGS</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">THREE SPRINGS</SimpleData>
@@ -1581,7 +1581,7 @@
 		</Placemark>
 		<Placemark>
 			<name>EFFLUENT REUSE DERBY</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">EFFLUENT REUSE DERBY</SimpleData>
@@ -1593,7 +1593,7 @@
 		</Placemark>
 		<Placemark>
 			<name>MANDURAH NO3 (CADDADUP)</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<ExtendedData>
 				<SchemaData schemaUrl="#SewerTreatmentPlant">
 					<SimpleData name="Name">MANDURAH NO3 (CADDADUP)</SimpleData>
