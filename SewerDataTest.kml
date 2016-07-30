@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 
-	<name>KML-zip_20160730013754.kml</name>
+	<name>SewerDataTest.kml</name>
 	<open>1</open>
 	<Style id="PolyStyle00">
+		<IconStyle>
+	        <Icon>
+	          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+	          </href>
+	        </Icon>
+      	</IconStyle>
 		<LabelStyle>
 			<color>00000000</color>
 			<scale>0</scale>
