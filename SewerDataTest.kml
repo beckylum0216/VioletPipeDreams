@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML-zip_20160730013754.kml</name>
+	<open>1</open>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd0f2c9</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>SewerTreatmentPlant</name>
+		<visibility>1</visibility>
+		<Placemark>
+			<name>BROOME NORTH</name>
+			<visibility>1</visibility>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SewerTreatmentPlant">
+					<SimpleData name="Name">BROOME NORTH</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>122.2850820479982,-17.9134020641539,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
