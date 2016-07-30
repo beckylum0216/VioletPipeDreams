@@ -58,14 +58,81 @@ function initMap() {
         });
 
 
-       var plantsLayer = new google.maps.KmlLayer({
-         url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/TreatmentAll.kmz?raw=true',
-         preserveViewport: true,
-         map: map
-       });
-      var useageLayer = new google.maps.KmlLayer({
-         url: 'https://github.com/beckylum0216/VioletPipeDreams/raw/master/Reclamation_sample.kml',
-         preserveViewport: true,
-         map: map
-       });
-     }
+}
+var kml = {
+    a: {
+        name: "Treatment Plants",
+        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/TreatmentAll.kmz?raw=true'
+    },
+    b: {
+        name: "Grey Water Useage",
+        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/Reclamation_all.kmz?raw=true'
+    },
+    c: {
+        name: "Treatment Ponds",
+        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/TreatmentPond.kmz?raw=true'
+    },
+    d: {
+        name: "Disposal Ponds",
+        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/DisposalPond.kmz?raw=true'
+    }
+// keep adding more if ye like 
+};
+     // easy way to remove all objects
+function removeAll() {
+    for (var prop in kml) {
+        if (kml[prop].obj) {
+            kml[prop].obj.setMap(null);
+            delete kml[prop].obj;
+        }
+
+    }
+};
+// the important function... kml[id].xxxxx refers back to the top 
+function toggleKML(checked, id) {
+
+    if (checked) {
+
+        var layer = new google.maps.KmlLayer(kml[id].url, {
+            preserveViewport: true 
+        });
+        // store kml as obj
+        kml[id].obj = layer;
+        kml[id].obj.setMap(map);
+    }
+    else {
+        kml[id].obj.setMap(null);
+        delete kml[id].obj;
+    }
+
+};
+// create the controls dynamically because it's easier, really
+function createTogglers() {
+
+    var html = "<form><ul>";
+    for (var prop in kml) {
+        html += "<li id=\"selector-" + prop + "\"><input type='checkbox' id='" + prop + "'" +
+        " onclick='highlight(this,\"selector-" + prop + "\"); toggleKML(this.checked, this.id)' \/>" +
+        kml[prop].name + "<\/li>";
+    }
+    html += "<li class='control'><a href='#' onclick='removeAll();return false;'>" +
+    "Remove all layers<\/a><\/li>" + 
+    "<\/ul><\/form>";
+
+    document.getElementById("toggle_box").innerHTML = html;
+};
+
+// Append Class on Select
+function highlight(box, listitem) {
+    var selected = 'selected';
+    var normal = 'normal';
+    document.getElementById(listitem).className = (box.checked ? selected: normal);
+};
+function startup() { 
+// for example, this toggles kml b on load and updates the menu selector
+var checkit = document.getElementById('b');
+checkit.checked = true;
+toggleKML(checkit, 'b');
+highlight(checkit, 'selector1');
+ }
+ 
