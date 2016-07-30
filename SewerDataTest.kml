@@ -31,6 +31,18 @@
 				<coordinates>122.2850820479982,-17.9134020641539,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>SUBIACO</name>
+			<visibility>1</visibility>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SewerTreatmentPlant">
+					<SimpleData name="Name">SUBIACO</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>115.7933852703141,-31.95445396248033,0</coordinates>
+			</Point>
+		</Placemark>
 	</Folder>
 </Document>
 </kml>
