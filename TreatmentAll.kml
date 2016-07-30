@@ -1,0 +1,1084 @@
+<?xml version="1.0"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML-zip_20160730013754.kml</name>
+	<open>1</open>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd0f2c9</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>SewerTreatmentPlant</name>
+		
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BROOME NORTH</name>
+			
+			
+			<Point>
+				<coordinates>122.2850820479982,-17.9134020641539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MILLSTREAM DEPOT</name>
+			
+			
+			<Point>
+				<coordinates>117.0643686140204,-21.58919445755811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MANJIMUP</name>
+			
+			
+			<Point>
+				<coordinates>116.1734133134737,-34.23831590885209,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KARRATHA NO1</name>
+			
+			
+			<Point>
+				<coordinates>116.869063869602,-20.7522327547378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KARRATHA LIA</name>
+			
+			
+			<Point>
+				<coordinates>116.8678208455557,-20.76140377926095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>HARVEY</name>
+			
+			
+			<Point>
+				<coordinates>115.8873348202458,-33.09274119255196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>SUBIACO</name>
+			
+			
+			<Point>
+				<coordinates>115.7933852703141,-31.95445396248033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>SOUTH HEDLAND</name>
+			
+			
+			<Point>
+				<coordinates>118.5739211567361,-20.41304411369487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WOODMAN POINT</name>
+			
+			
+			<Point>
+				<coordinates>115.7720315203385,-32.14144202662817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>DUNSBOROUGH NO2</name>
+			
+			
+			<Point>
+				<coordinates>115.154824999674,-33.67287337860347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>POINT PERON</name>
+			
+			
+			<Point>
+				<coordinates>115.6937645137214,-32.27103824461926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>GREENHEAD</name>
+			
+			
+			<Point>
+				<coordinates>114.9837768135492,-30.06964592671812,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>DONGARA - DENISON</name>
+			
+			
+			<Point>
+				<coordinates>114.9411793006842,-29.26660260182859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KALBARRI</name>
+			
+			
+			<Point>
+				<coordinates>114.1844639277681,-27.7117586252603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MOORA</name>
+			
+			
+			<Point>
+				<coordinates>115.9918792850011,-30.64623994871459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MT BARKER</name>
+			
+			
+			<Point>
+				<coordinates>117.6725798745616,-34.61761628356459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WYNDHAM</name>
+			
+			
+			<Point>
+				<coordinates>128.1147593338762,-15.48817439033581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>ESPERANCE NO1</name>
+			
+			
+			<Point>
+				<coordinates>121.8945026513763,-33.848908347742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>SEPTAGE FACILITY</name>
+			
+			
+			<Point>
+				<coordinates>117.7867238746072,-34.94668911730889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BUNBURY NO2</name>
+			
+			
+			<Point>
+				<coordinates>115.6113778486089,-33.38639951822313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BEVERLEY</name>
+			
+			
+			<Point>
+				<coordinates>116.9421253547014,-32.13587182462499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>GNOWANGERUP</name>
+			
+			
+			<Point>
+				<coordinates>118.0164490380927,-33.9365482362121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>NARNGULU</name>
+			
+			
+			<Point>
+				<coordinates>114.6580546172269,-28.81278643844331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WILUNA</name>
+			
+			
+			<Point>
+				<coordinates>120.2162066960822,-26.60734499227755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>CHRISTMAS ISLAND</name>
+			
+			
+			<Point>
+				<coordinates>105.6624485995233,-10.43105506583856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WAROONA</name>
+			
+			
+			<Point>
+				<coordinates>115.9054695081114,-32.83871353430214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>GREENOUGH-ON-SEA</name>
+			
+			
+			<Point>
+				<coordinates>114.6386820997991,-28.8438727595202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>CRANBROOK</name>
+			
+			
+			<Point>
+				<coordinates>117.5597531555837,-34.2867710425495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WICKHAM</name>
+			
+			
+			<Point>
+				<coordinates>117.1619344530127,-20.67180538590981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KOJONUP</name>
+			
+			
+			<Point>
+				<coordinates>117.1487246703074,-33.83618860202233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WASTEWATER</name>
+			
+			
+			<Point>
+				<coordinates>115.7774575951919,-32.10405642046737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>CORAL BAY</name>
+			
+			
+			<Point>
+				<coordinates>113.8000369254638,-23.14486908933696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>ROTTNEST</name>
+			
+			
+			<Point>
+				<coordinates>115.53572892495,-31.99129798431448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MARGARET RIVER NO2</name>
+			
+			
+			<Point>
+				<coordinates>115.0896112721425,-33.93380269503831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>NEW NORCIA</name>
+			
+			
+			<Point>
+				<coordinates>116.2188182552584,-30.98135313473932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>GERALDTON NO2</name>
+			
+			
+			<Point>
+				<coordinates>114.6442416745138,-28.7654907152243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>LANCELIN</name>
+			
+			
+			<Point>
+				<coordinates>115.3552609555287,-31.03990752191459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MANDURAH NO2 (HALLS HEAD)</name>
+			
+			
+			<Point>
+				<coordinates>115.6904277357514,-32.54062302043599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>YORK</name>
+			
+			
+			<Point>
+				<coordinates>116.7813154122765,-31.9147623309168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>AUGUSTA</name>
+			
+			
+			<Point>
+				<coordinates>115.1583743899662,-34.33432647648567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>ROTTNEST (PRIVATE)</name>
+			
+			
+			<Point>
+				<coordinates>115.5374226280519,-31.98998015016378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>HALLS CREEK</name>
+			
+			
+			<Point>
+				<coordinates>127.7043471099313,-18.24509379744075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KARRATHA NO2</name>
+			
+			
+			<Point>
+				<coordinates>116.7833518218292,-20.76436351736237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>ONSLOW</name>
+			
+			
+			<Point>
+				<coordinates>115.1053934675346,-21.65794803987012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>HORROCKS</name>
+			
+			
+			<Point>
+				<coordinates>114.4181984218197,-28.36215175449985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>CAPEL</name>
+			
+			
+			<Point>
+				<coordinates>115.5406039393204,-33.56812214172339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>DARDANUP</name>
+			
+			
+			<Point>
+				<coordinates>115.7847385163695,-33.42142150819598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>LAVERTON</name>
+			
+			
+			<Point>
+				<coordinates>122.3916851499498,-28.6081265566952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KWINANA RECLAMATION SCHEME</name>
+			
+			
+			<Point>
+				<coordinates>115.7715607666162,-32.22831057737119,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>CORRIGIN</name>
+			
+			
+			<Point>
+				<coordinates>117.8701417770214,-32.33770573073485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KELLERBERRIN</name>
+			
+			
+			<Point>
+				<coordinates>117.7205133816873,-31.64157984243576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MECKERING</name>
+			
+			
+			<Point>
+				<coordinates>117.0047085328725,-31.63947871317202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MUKINBUDIN</name>
+			
+			
+			<Point>
+				<coordinates>118.2071527052332,-30.92650041736033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>QUAIRADING</name>
+			
+			
+			<Point>
+				<coordinates>117.4171552373244,-32.00787785677761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WONGAN HILLS</name>
+			
+			
+			<Point>
+				<coordinates>116.7107736953499,-30.89257965892409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>DONNYBROOK</name>
+			
+			
+			<Point>
+				<coordinates>115.7768161438501,-33.57014532404742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WALPOLE</name>
+			
+			
+			<Point>
+				<coordinates>116.7424374998908,-34.97203215825743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>NEWMAN (PRIVATE)</name>
+			
+			
+			<Point>
+				<coordinates>119.7343161256887,-23.33262652349521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MUNDARING</name>
+			
+			
+			<Point>
+				<coordinates>116.1794245223239,-31.89787358269962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>HARDING DAM DISPOSAL</name>
+			
+			
+			<Point>
+				<coordinates>117.1030465378675,-20.97276318307439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WYALKATCHEM</name>
+			
+			
+			<Point>
+				<coordinates>117.3780660939751,-31.18761908785058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>ALBANY EFFLUENT</name>
+			
+			
+			<Point>
+				<coordinates>117.784224510253,-34.94110226525731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BEENYUP</name>
+			
+			
+			<Point>
+				<coordinates>115.7762920558338,-31.78790075341698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>NARROGIN</name>
+			
+			
+			<Point>
+				<coordinates>117.192649076194,-32.94325219213494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>DENHAM</name>
+			
+			
+			<Point>
+				<coordinates>113.5544004203432,-25.9114077133952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>DERBY</name>
+			
+			
+			<Point>
+				<coordinates>123.648834221722,-17.33391963018676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KAMBALDA</name>
+			
+			
+			<Point>
+				<coordinates>121.6477551570749,-31.21008271094831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WESTFIELD WWTP - FUTURE</name>
+			
+			
+			<Point>
+				<coordinates>115.9600379524895,-32.15029767329895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>EAST ROCKINGHAM</name>
+			
+			
+			<Point>
+				<coordinates>115.7718759430204,-32.26218355033052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>PINGELLY</name>
+			
+			
+			<Point>
+				<coordinates>117.0808295592368,-32.52147806296222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BINNINGUP</name>
+			
+			
+			<Point>
+				<coordinates>115.6962535286775,-33.1282726637524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MANDURAH NO1 (GORDON RD)</name>
+			
+			
+			<Point>
+				<coordinates>115.7577346371438,-32.51017691952915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>PORT HEDLAND</name>
+			
+			
+			<Point>
+				<coordinates>118.6230816844723,-20.30817024885783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MANDURAH NO4 (TIMS THICKET)</name>
+			
+			
+			<Point>
+				<coordinates>115.6200131236068,-32.65098787049379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>CARNARVON</name>
+			
+			
+			<Point>
+				<coordinates>113.6513816694286,-24.87346653864978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>NANNUP</name>
+			
+			
+			<Point>
+				<coordinates>115.7849394518943,-33.99599603059227,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>NEWDEGATE</name>
+			
+			
+			<Point>
+				<coordinates>119.0201605094,-33.08775287259692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>ENEABBA</name>
+			
+			
+			<Point>
+				<coordinates>115.2680538109347,-29.80530634960832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>TWO ROCKS</name>
+			
+			
+			<Point>
+				<coordinates>115.5867773401022,-31.49803517908021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>TAMBELLUP</name>
+			
+			
+			<Point>
+				<coordinates>117.6510433580646,-34.03710603961201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>ALKIMOS</name>
+			
+			
+			<Point>
+				<coordinates>115.6782843169677,-31.61409057482012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BROOME</name>
+			
+			
+			<Point>
+				<coordinates>122.2220104875939,-17.97406716466787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>AUSTRALIND</name>
+			
+			
+			<Point>
+				<coordinates>115.742949368119,-33.27797415238518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WILLIAMS</name>
+			
+			
+			<Point>
+				<coordinates>116.870929796473,-33.03359608479144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BULLSBROOK</name>
+			
+			
+			<Point>
+				<coordinates>116.0248887298311,-31.64972469284026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KWINANA</name>
+			
+			
+			<Point>
+				<coordinates>115.8243576715694,-32.21512381191434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>YANCHEP</name>
+			
+			
+			<Point>
+				<coordinates>115.6468114088195,-31.54564445542724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MUJA POWER STATION</name>
+			
+			
+			<Point>
+				<coordinates>116.3091796190442,-33.44991270240922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>FITZROY CROSSING</name>
+			
+			
+			<Point>
+				<coordinates>125.5784538445694,-18.21627080465385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>HYDEN</name>
+			
+			
+			<Point>
+				<coordinates>118.8772562451797,-32.43842320876405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BRIDGETOWN NO2</name>
+			
+			
+			<Point>
+				<coordinates>116.1317281295496,-33.90722459443941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>COLLIE</name>
+			
+			
+			<Point>
+				<coordinates>116.1277025428382,-33.38966714822027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KATANNING</name>
+			
+			
+			<Point>
+				<coordinates>117.5630724381425,-33.70532636971615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>LEEMAN</name>
+			
+			
+			<Point>
+				<coordinates>114.9883705532585,-29.93844602686261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MARGARET RIVER</name>
+			
+			
+			<Point>
+				<coordinates>115.063188489857,-33.96346409159452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>EXMOUTH</name>
+			
+			
+			<Point>
+				<coordinates>114.1332815208256,-21.93509950363915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>GNARABUP BEACH (PREVELLY)</name>
+			
+			
+			<Point>
+				<coordinates>114.9992012865102,-34.0006121454341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>DENMARK</name>
+			
+			
+			<Point>
+				<coordinates>117.3550918466114,-34.97388129208792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>CERVANTES</name>
+			
+			
+			<Point>
+				<coordinates>115.0774832146786,-30.46658313270535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>LEDGE POINT</name>
+			
+			
+			<Point>
+				<coordinates>115.3656214647589,-31.0861507316709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WILLIAMS NO 2</name>
+			
+			
+			<Point>
+				<coordinates>116.8988789081352,-33.02669584663595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>ROEBOURNE</name>
+			
+			
+			<Point>
+				<coordinates>117.1337040298172,-20.75462921326755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>NORTHAM</name>
+			
+			
+			<Point>
+				<coordinates>116.6485466900777,-31.63965531574018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>PEMBERTON</name>
+			
+			
+			<Point>
+				<coordinates>116.0247622464806,-34.45286851566942,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BRUNSWICK JUNCTION</name>
+			
+			
+			<Point>
+				<coordinates>115.8217318931124,-33.26339759262475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BUREKUP</name>
+			
+			
+			<Point>
+				<coordinates>115.823124259477,-33.32139085860121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>ALBANY NO 2</name>
+			
+			
+			<Point>
+				<coordinates>117.8300530300233,-34.99322717609329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>CUNDERDIN</name>
+			
+			
+			<Point>
+				<coordinates>117.2270292137273,-31.6455134383944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>LEONORA</name>
+			
+			
+			<Point>
+				<coordinates>121.3227787793172,-28.88785125423198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MERREDIN</name>
+			
+			
+			<Point>
+				<coordinates>118.2555823755263,-31.48005145321195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>NAREMBEEN</name>
+			
+			
+			<Point>
+				<coordinates>118.4056801594119,-32.05129862163403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>TOODYAY</name>
+			
+			
+			<Point>
+				<coordinates>116.5053318782636,-31.53106686774168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WUNDOWIE</name>
+			
+			
+			<Point>
+				<coordinates>116.391150117484,-31.7623464257469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>WAGIN</name>
+			
+			
+			<Point>
+				<coordinates>117.3543447195333,-33.31739888584986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KULIN</name>
+			
+			
+			<Point>
+				<coordinates>118.1605896560878,-32.67638796263434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>ESPERANCE NO2</name>
+			
+			
+			<Point>
+				<coordinates>121.976224539431,-33.81581782363361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>LAKE ARGYLE</name>
+			
+			
+			<Point>
+				<coordinates>128.7386369247544,-16.11457572618878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BINDI BINDI (PRIVATE)</name>
+			
+			
+			<Point>
+				<coordinates>115.1158141108326,-21.65183472109544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>JURIEN</name>
+			
+			
+			<Point>
+				<coordinates>115.0631663656353,-30.31292250107254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>PINJARRA</name>
+			
+			
+			<Point>
+				<coordinates>115.9075023248724,-32.62623756461187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>GERALDTON NORTH</name>
+			
+			
+			<Point>
+				<coordinates>114.6160282988669,-28.70192881836022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>NOWERGUP</name>
+			
+			
+			<Point>
+				<coordinates>115.7637104136047,-31.63967402433672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BREMER BAY</name>
+			
+			
+			<Point>
+				<coordinates>119.3829806430423,-34.40228832264791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KEMERTON</name>
+			
+			
+			<Point>
+				<coordinates>115.7403270745349,-33.21230012395154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KUNUNURRA</name>
+			
+			
+			<Point>
+				<coordinates>128.7280642771448,-15.78039977942626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>KARRATHA NO4</name>
+			
+			
+			<Point>
+				<coordinates>116.7810705187894,-20.76116568195062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BODDINGTON</name>
+			
+			
+			<Point>
+				<coordinates>116.4579085223605,-32.78016690917548,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>HOPETOUN</name>
+			
+			
+			<Point>
+				<coordinates>120.1280721202322,-33.90287641821209,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>BUSSELTON</name>
+			
+			
+			<Point>
+				<coordinates>115.3211126182528,-33.68777978720738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>THREE SPRINGS</name>
+			
+			
+			<Point>
+				<coordinates>115.7662587325546,-29.54186361781165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>EFFLUENT REUSE DERBY</name>
+			
+			
+			<Point>
+				<coordinates>123.64775191372,-17.33474926286812,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
+			<name>MANDURAH NO3 (CADDADUP)</name>
+			
+			
+			<Point>
+				<coordinates>115.6316148573399,-32.61703378498117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Schema name="SewerTreatmentPlant" id="SewerTreatmentPlant">
+	<SimpleField name="Name" type="string"/>
+	<SimpleField name="Description" type="string"/>
+</Schema>
+	</Folder>
+</Document>
+</kml>
