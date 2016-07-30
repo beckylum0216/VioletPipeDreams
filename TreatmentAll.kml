@@ -29,24 +29,18 @@
 		</Placemark>
 		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
 			<name>MILLSTREAM DEPOT</name>
-			
-			
 			<Point>
 				<coordinates>117.0643686140204,-21.58919445755811,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
 			<name>MANJIMUP</name>
-			
-			
 			<Point>
 				<coordinates>116.1734133134737,-34.23831590885209,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark><gx:balloonVisibility>1</gx:balloonVisibility>
 			<name>KARRATHA NO1</name>
-			
-			
 			<Point>
 				<coordinates>116.869063869602,-20.7522327547378,0</coordinates>
 			</Point>
