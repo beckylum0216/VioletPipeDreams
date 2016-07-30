@@ -3,7 +3,7 @@
 
 	<name>SewerDataTest.kml</name>
 	<open>1</open>
-	<Style id="PolyStyle00">
+	<!--<Style id="PolyStyle00">
 		<IconStyle>
 	        <Icon>
 	          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
@@ -24,7 +24,7 @@
 	</Style>
 
 		<name>SewerTreatmentPlant</name>
-		<visibility>1</visibility>
+		<visibility>1</visibility>-->
 		<Placemark>
 			<name>BROOME NORTH</name>
 			<visibility>1</visibility>
