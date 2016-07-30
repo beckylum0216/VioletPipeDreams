@@ -1,3 +1,32 @@
+var map;
+var kml = {
+    		    a: {
+    		        name: "Treatment Plants",
+    		        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/TreatmentAll.kmz?raw=true'
+    		    },
+    		    b: {
+    		        name: "Grey Water Useage",
+    		        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/Reclamation_all.kmz?raw=true'
+    		    },
+    		    c: {
+    		        name: "Treatment Ponds",
+    		        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/TreatmentPond.kmz?raw=true'
+    		    },
+    		    d: {
+    		        name: "Disposal Ponds",
+    		        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/DisposalPond.kmz?raw=true'
+    		    }
+    		// keep adding more if ye like 
+    		};
+function startup() { 
+// for example, this toggles kml b on load and updates the menu selector
+var checkit = document.getElementById('a');
+checkit.checked = true;
+checkit = document.getElementById('b');
+checkit.checked = true;
+toggleKML(checkit, 'a');
+toggleKML(checkit, 'b');
+ }
 function geolocate() {
         if (navigator.geolocation) {
           navigator.geolocation.getCurrentPosition(function(position) {
@@ -18,16 +47,19 @@ function initMap() {
             /** @type {!HTMLInputElement} */(document.getElementById('autocomplete')),
             {types: ['geocode']});
         var infowindow = new google.maps.InfoWindow();
-        var marker = new google.maps.Marker({
-          map: map,
-          anchorPoint: new google.maps.Point(0, -29)
-        });
 
-       var map = new google.maps.Map(document.getElementById('map'), {
+
+       map = new google.maps.Map(document.getElementById('map'), {
          zoom: 11,
-         center: {lat: -31.953945, lng: 115.852901},
-         mapTypeControl: true
+         center: {lat: -31.953945, lng: 115.852901}//,
+         //mapTypeControl: true
        });
+       
+       var marker = new google.maps.Marker({
+           map: map,
+           anchorPoint: new google.maps.Point(0, -29)
+         });
+       
        autocomplete.addListener('place_changed', function() {
           infowindow.close();
           marker.setVisible(false);
@@ -56,30 +88,14 @@ function initMap() {
  infowindow.setContent('<div><strong>' + place.name + '</strong><br>' + address);
           infowindow.open(map, marker);
         });
-
+       createTogglers();
+       //startup();
 
 }
-var kml = {
-    a: {
-        name: "Treatment Plants",
-        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/TreatmentAll.kmz?raw=true'
-    },
-    b: {
-        name: "Grey Water Useage",
-        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/Reclamation_all.kmz?raw=true'
-    },
-    c: {
-        name: "Treatment Ponds",
-        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/TreatmentPond.kmz?raw=true'
-    },
-    d: {
-        name: "Disposal Ponds",
-        url: 'https://github.com/beckylum0216/VioletPipeDreams/blob/master/DisposalPond.kmz?raw=true'
-    }
-// keep adding more if ye like 
-};
+
      // easy way to remove all objects
 function removeAll() {
+	console.log("removing all");
     for (var prop in kml) {
         if (kml[prop].obj) {
             kml[prop].obj.setMap(null);
@@ -90,15 +106,20 @@ function removeAll() {
 };
 // the important function... kml[id].xxxxx refers back to the top 
 function toggleKML(checked, id) {
-
+	console.log("In the toggleKML");
     if (checked) {
+    	console.log("Item is checked");
 
         var layer = new google.maps.KmlLayer(kml[id].url, {
             preserveViewport: true 
         });
+        console.log("Got the layer");
+        console.log("The map is:");
+        console.log(map);
         // store kml as obj
         kml[id].obj = layer;
         kml[id].obj.setMap(map);
+        console.log(layer);
     }
     else {
         kml[id].obj.setMap(null);
@@ -128,11 +149,5 @@ function highlight(box, listitem) {
     var normal = 'normal';
     document.getElementById(listitem).className = (box.checked ? selected: normal);
 };
-function startup() { 
-// for example, this toggles kml b on load and updates the menu selector
-var checkit = document.getElementById('b');
-checkit.checked = true;
-toggleKML(checkit, 'b');
-highlight(checkit, 'selector1');
- }
+
  
