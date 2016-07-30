@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML-zip_20160730013754.kml</name>
+	<open>1</open>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd0f2c9</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>WW_Reuse_Irrigation_Areas_WC_20160729</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Karratha_Tambrey_oval</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karratha_Tambrey_oval</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>IrrigateSi</td>
+
+<td>IS_40702</td>
+
+</tr>
+
+<tr>
+
+<td>IrrigatSch</td>
+
+<td>SC_407</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WWTP</td>
+
+<td>Karratha_2</td>
+
+</tr>
+
+<tr>
+
+<td>Area_Name</td>
+
+<td>Karratha_Tambrey_oval</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DoH_App_No</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>DoH_ApDate</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								116.8022218940759,-20.74372963041347,0 116.8022143280759,-20.74372965341345,0 116.802221893076,-20.74372965341345,0 116.8022218940759,-20.74372963041347,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								116.8022218940759,-20.74372963041347,0 116.8034815250755,-20.7437258704139,0 116.8035987240752,-20.74318470041422,0 116.8035344180751,-20.74299934941424,0 116.8035392760751,-20.74297367541429,0 116.803484212075,-20.74279471741431,0 116.8035071550749,-20.7426432904144,0 116.8035851620748,-20.7425354574145,0 116.8034153810748,-20.74239091341448,0 116.8036402260746,-20.74222572141463,0 116.8034796230746,-20.7420054654147,0 116.8032754270747,-20.74207888441458,0 116.8032662500748,-20.74219360041451,0 116.8031098010748,-20.74220507041445,0 116.8031075350748,-20.74211489441447,0 116.8028759970749,-20.7421090994144,0 116.8022748510751,-20.7421257974142,0 116.8022332410758,-20.74322655741368,0 116.8022218940759,-20.74372963041347,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
