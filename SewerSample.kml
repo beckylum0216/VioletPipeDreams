@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML-zip_20160730013754.kml</name>
+	<open>1</open>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd0f2c9</color>
+		</PolyStyle>
+	</Style>
+		<Placemark>
+			<name>SUBIACO</name>
+			<description>SUBIACO</description>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Point>
+				<coordinates>115.7933852703141,-31.95445396248033,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>
