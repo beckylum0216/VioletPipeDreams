@@ -9,7 +9,7 @@ body
 
 #outer
 { 	
-	background-image: url(../images/white_transparency_background.png);
+	background-image: url(../images/transparency_85pct.png);
 	width:1000px;
 	margin: 1% auto;
 	
@@ -44,7 +44,7 @@ li a
 	color:white;
 	background-color:#767676;
 	width: 150px;
-	height: 20px;
+	height: 30px;
 	display:block;
 	font-size: 15px;
 	border:solid 2px #31817E;
@@ -62,15 +62,48 @@ a:hover
 
 }
 
-#map.mappy {
-   height: 100%;
-   margin: 0rem auto;
-   width: 1000px;
+#mapper
+{
+	width: 1000px;
+  	height: 100%;
+  	position: relative;
+  	padding: 0px auto;
+  	margin: 0px auto;
+}
+
+#toggle_box
+{
+	position: absolute; 
+	width: 200px;
+	top: 50px; 
+	left: 750px;
+	padding: 10px; 
+	background: #fff; 
+	z-index: 5;
+	float: left;
+
+}
+
+
+#map.mappy 
+{
+	position: absolute;
+    height: 100%;
+    margin: 0rem auto;
+    width: 1000px;
+    z-index: 0;
  }
 
- .selected { font-weight: bold; }
 
- .header
+.selected 
+{ 
+	font-weight: bold; 
+	float: left;
+	flex-wrap: wrap;
+
+}
+
+.header
  {
  	/*background-image: url(../images/wangaratta-racecourseweb_1200px.png);*/
  	margin: 0rem 5rem 0rem 0rem;
