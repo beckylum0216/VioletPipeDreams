@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://code.jquery.com/jquery.min.js"></script>
+  <link href="https://getbootstrap.com/dist/css/bootstrap.css" rel="stylesheet" type="text/css" />
+  <script src="https://getbootstrap.com/dist/js/bootstrap.js"></script>
+  <script src="https://1000hz.github.io/bootstrap-validator/dist/validator.min.js"></script>
+
+  <link href="https://libraries.cdnhttps.com/ajax/libs/formvalidation/0.6.1/css/formValidation.min.css" rel="stylesheet" type="text/css" />
+  <script src="https://libraries.cdnhttps.com/ajax/libs/formvalidation/0.6.1/js/formValidation.min.js"></script>
+  <script src="https://libraries.cdnhttps.com/ajax/libs/formvalidation/0.6.1/js/framework/bootstrap.min.js"></script>
+  <script src="./myScript.js"></script>
+<body>
+
+<h2>Water Reuse Viability Check</h2>
+<div class="des">Use this form to check if using waste water for irrigation is viable</div>
+
+
+<form id="water-form" class="form-horizontal" role="form" data-toggle="validator">
+    <div class="form-group">
+        <label for="" class="control-label col-sm-2" >Soil Type</label>
+      <div class="col-sm-10">
+        <div class="radio">
+          <label>
+            <input type="radio" name="soilType" value="Clay">
+            Clay
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="radio" name="soilType" value="Sand">
+            Sand
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="radio" name="soilType" value="Salt">
+            Salt
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="form-group" >
+      <label for="plantName" class="control-label col-sm-2">Nearest sewarage treatment plant</label>
+      <div class="col-sm-10">
+        <input class="form-control" type="text" name="plantName" id="plantName">
+      </div>
+    </div>
+    <div class="form-group">
+        <label for="" class="control-label col-sm-2">Proximity to Sewage treatment plant</label>
+        <div class="des">Are you within 10km of the plaent?</div>
+      <div class="col-sm-10">
+
+        <div class="radio">
+          <label>
+            <input type="radio" name="proximity" value="proximity_yes">
+            Yes
+          </label>
+        </div>
+
+        <div class="radio">
+          <label>
+            <input type="radio" name="proximity" value="proximity_no">
+            No
+          </label>
+        </div>
+
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="catchment" class="control-label col-sm-2">Catchment type</label>
+        <div class="des">What type of water cathced are you in?</div>
+      <div class="col-sm-10">
+
+        <div class="radio">
+          <label>
+            <input type="radio" name="catchment" value="P1">
+            P1
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="radio" name="catchment" value="P2">
+            P2
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="radio" name="catchment" value="P3">
+            P3
+          </label>
+        </div>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="" class="control-label col-sm-2">Agricultured Use</label>
+        <div class="des"></div>
+      <div class="col-sm-10">
+
+        <div class="radio">
+          <label>
+            <input type="checkbox" name="agricultured[]" required>
+            Food, Dairy
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="checkbox" name="agricultured[]" required>
+            Pastuxe, fodder
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="checkbox" name="agricultured[]" required>
+            Fulj joxm
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="checkbox" name="agricultured[]" required>
+            Flowers
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="checkbox" name="agricultured[]" required>
+            Sports, Recurection
+          </label>
+        </div>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-default col-sm-10">Submit</button>
+
+</form>
+
+
+</body>
+</html>
