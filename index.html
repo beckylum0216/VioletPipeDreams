@@ -17,36 +17,39 @@
 </head>
 
 <body onload="startup()">
-	<div class="row">
-		<div class="large-12 columns header">
-			<h1>The Water Finder</h1>
-		</div>
-	</div>
 
-	<div class="row">
-		<div class="large-12 column">
-			<p> </p>
-		</div>
-	</div>
-	
-	<div class="row">
+	<div id="outer">
 
-		<div id="locationField">
-	      <input id="autocomplete" placeholder="Search" onFocus="geolocate()" type="text"></input>
-	    </div>
-    </div>
-	
-	<div id="toggle_box" style="position: absolute; top: 175px; right: 200px; padding: 10px; background: #fff; z-index: 5; "></div>
-	<div id="Legend"><img src="http://www.asris.csiro.au/arcgis/services/TERN/CLY_ACLEP_AU_NAT_C/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=CLY_100_200_05_N_P_AU_NAT_C"/></div>
-
-	<div id="map" class="mappy">
+		<header>
+			<div class="row">
+				<div class="large-12 columns header">
+					<h1>The Water Finder</h1>
+				</div>
+				<nav>
+			    	<ul class="large-12 columns">
+			            <li><a href="home.html">Home Page</a></li>
+			            <li><a href="blog.html">The Water Problem</a></li>            
+			            <li><a href="index.html">Map</a></li>
+			            <li><a href="aboutus.html">About Us</a></li>
+			            <li><a href="contactus.html">Contact Us</a></li>
+			        </ul>      
+	    		</nav>
+			</div>
+		</header>
 		
-	</div>
+		<div class="row">
 
+			<div id="locationField">
+		      <input id="autocomplete" placeholder="Search" onFocus="geolocate()" type="text"></input>
+		    </div>
+	    </div>
+	    </div>
+		
+		<div id="toggle_box" style="position: absolute; top: 300px; right: 200px; padding: 10px; background: #fff; z-index: 5; "></div>
+		<div id="Legend"><img src="http://www.asris.csiro.au/arcgis/services/TERN/CLY_ACLEP_AU_NAT_C/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=CLY_100_200_05_N_P_AU_NAT_C"/></div>
 
-
-	
-	
+		<div id="map" class="mappy">
+		</div>
 	
 </body>
 

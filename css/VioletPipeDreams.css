@@ -1,32 +1,90 @@
-html, body {
-       height: 100%;
-       margin: 0;
-       padding: 0;
-     }
 
-     #map.mappy {
-       height: 100%;
-       margin: 0rem 12rem;
-       width: 75rem;
-     }
+body
+{
+	background-image: url(../images/wheatpic_2000px.png) !important;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	margin: 0px auto;
+	background-attachment:fixed !important;
+}
 
-     .selected { font-weight: bold; }
+#outer
+{ 	
+	background-image: url(../images/white_transparency_background.png);
+	width:1000px;
+	margin: 1% auto;
+	
+	
+}
 
-     .header
-     {
-     	background-image: url(../images/wangaratta-racecourseweb_1200px.png);
-     	margin: 0rem 5rem 0rem 0rem;
-     }
+nav
+{
+	width:96%;
+	margin:  0% 1%;
+	padding:1%;
+	float:left;
+}
 
-    .clearfloat 
-	{
-		font-size: 0px;
-		margin: 0px;
-		padding: 0px;
-		clear: both;
-		float: none;
-		height: 0px;
-		width: 0px;
-		border: 0px none;
-		line-height: 0px;
-	}
+ul
+{
+	width:1000px;
+	margin: 0px auto;
+}
+ 
+li
+{
+	list-style-type:none;
+	float:left;
+	margin: 0px 0px;
+	padding: 0px 1px;
+}
+
+li a
+{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color:white;
+	background-color:#767676;
+	width: 150px;
+	height: 20px;
+	display:block;
+	font-size: 15px;
+	border:solid 2px #31817E;
+	padding: 1px;
+	border-radius: 0px;
+	text-align:center;
+	text-decoration:none;
+	float:left;
+	
+}
+
+a:hover
+{	color:black;
+	background-color:orange;
+
+}
+
+#map.mappy {
+   height: 100%;
+   margin: 0rem auto;
+   width: 1000px;
+ }
+
+ .selected { font-weight: bold; }
+
+ .header
+ {
+ 	/*background-image: url(../images/wangaratta-racecourseweb_1200px.png);*/
+ 	margin: 0rem 5rem 0rem 0rem;
+ }
+
+.clearfloat 
+{
+	font-size: 0px;
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	float: none;
+	height: 0px;
+	width: 0px;
+	border: 0px none;
+	line-height: 0px;
+}
