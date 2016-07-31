@@ -18,6 +18,8 @@ var kml = {
     		    }
     		// keep adding more if ye like 
     		};
+var openlayersWMS;
+
 function startup() { 
 // for example, this toggles kml b on load and updates the menu selector
 var checkit = document.getElementById('a');
@@ -89,7 +91,48 @@ function initMap() {
           infowindow.open(map, marker);
         });
        createTogglers();
-       //startup();
+
+       
+       var wmsOptions = {
+           alt: "ClaySoil",
+           getTileUrl: WMSGetTileUrl,
+           isPng: false,
+           maxZoom: 17,
+           minZoom: 1,
+           name: "ClaySoil",
+           tileSize: new google.maps.Size(256, 256)
+
+       };
+       
+
+       //Creating the object to create the ImageMapType that will call the WMS Layer Options.
+
+       openlayersWMS = new google.maps.ImageMapType(wmsOptions);
+
+       
+       //Layers to appear on Map A.  The first string will give the map the map a name in the dropdown and the second object calls the map type
+
+       map.mapTypes.set('ClaySoil', openlayersWMS);
+       
+      
+
+       //Controling the Layers that appear in Map A.  You can set certain maps to appear in Map A.
+       map.setOptions({
+           mapTypeControlOptions: {
+               mapTypeIds: [
+		  'ClaySoil',
+		 
+		   google.maps.MapTypeId.ROADMAP
+		],
+               style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
+           }
+       });
+
+   //Where the initial map type is set.  This can be adjusted as necessary.  The map name in ' ' indicates the default map viewed when the user 
+   //visits the page
+   map.setMapTypeId('ClaySoil');
+   
+
 
 }
 
@@ -106,20 +149,14 @@ function removeAll() {
 };
 // the important function... kml[id].xxxxx refers back to the top 
 function toggleKML(checked, id) {
-	console.log("In the toggleKML");
     if (checked) {
-    	console.log("Item is checked");
 
         var layer = new google.maps.KmlLayer(kml[id].url, {
             preserveViewport: true 
         });
-        console.log("Got the layer");
-        console.log("The map is:");
-        console.log(map);
         // store kml as obj
         kml[id].obj = layer;
         kml[id].obj.setMap(map);
-        console.log(layer);
     }
     else {
         kml[id].obj.setMap(null);
@@ -149,3 +186,41 @@ function highlight(box, listitem) {
     var normal = 'normal';
     document.getElementById(listitem).className = (box.checked ? selected: normal);
 };
+
+
+
+//Complete path to OpenLayers WMS layer
+
+ function WMSGetTileUrl(tile, zoom) {
+     var projection = window.map.getProjection();
+     var zpow = Math.pow(2, zoom);
+     var ul = new google.maps.Point(tile.x * 256.0 / zpow, (tile.y + 1) * 256.0 / zpow);
+     var lr = new google.maps.Point((tile.x + 1) * 256.0 / zpow, (tile.y) * 256.0 / zpow);
+     var ulw = projection.fromPointToLatLng(ul);
+     var lrw = projection.fromPointToLatLng(lr);
+     //The user will enter the address to the public WMS layer here.  The data must be in WGS84
+     var baseURL = "http://www.asris.csiro.au/arcgis/services/TERN/CLY_ACLEP_AU_NAT_C/MapServer/WmsServer?";
+     var version = "1.3.0";
+     var request = "GetMap";
+     var format = "image%2Fjpeg"; //type of image returned  or image/jpeg
+     //The layer ID.  Can be found when using the layers properties tool in ArcMap or from the WMS settings 
+     var layers = "CLY_000_005_EV_N_P_AU_NAT_C,CLY_005_015_EV_N_P_AU_NAT_C,CLY_015_030_EV_N_P_AU_NAT_C,CLY_030_060_95_N_P_AU_NAT_C,CLY_060_100_95_N_P_AU_NAT_C,CLY_100_200_95_N_P_AU_NAT_C";
+     //projection to display. This is the projection of google map. Don't change unless you know what you are doing.  
+     //Different from other WMS servers that the projection information is called by crs, instead of srs
+     var crs = "EPSG:4326"; 
+     //With the 1.3.0 version the coordinates are read in LatLon, as opposed to LonLat in previous versions
+     var bbox = ulw.lat() + "," + ulw.lng() + "," + lrw.lat() + "," + lrw.lng();
+     var service = "WMS";
+     //the size of the tile, must be 256x256
+     var width = "256";
+     var height = "256";
+     //Some WMS come with named styles.  The user can set to default.
+     var styles = "default,default,default,default,default,default";
+     //Establish the baseURL.  Several elements, including &EXCEPTIONS=INIMAGE and &Service are unique to openLayers addresses.
+     var url = baseURL + "Layers=" + layers + "&version=" + version + "&EXCEPTIONS=INIMAGE" + "&Service=" + service + "&request=" + request + "&Styles=" + styles + "&format=" + format + "&CRS=" + crs + "&BBOX=" + bbox + "&width=" + width + "&height=" + height;
+     console.log("WMS URL is:");
+     console.log(url);
+     return url;
+ }
+
+
