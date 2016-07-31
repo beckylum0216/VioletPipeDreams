@@ -1,0 +1,353 @@
+.clearfloat 
+{
+	font-size: 0px;
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	float: none;
+	height: 0px;
+	width: 0px;
+	border: 0px none;
+	line-height: 0px;
+}
+
+@font-face 
+{
+    font-family: 'dj_grossnormal';
+    src: url('../fonts/DJGROSS-webfont.eot');
+    src: url('../fonts/DJGROSS-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/DJGROSS-webfont.woff') format('woff'),
+         url('../fonts/DJGROSS-webfont.ttf') format('truetype'),
+         url('../fonts/DJGROSS-webfont.svg#dj_grossnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+body
+{
+	background-image: url(../images/wheatpic_2000px.png);
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	margin: 0px auto;
+	background-attachment:fixed;
+}
+
+#outer
+{ 	
+	background-image: url(../images/transparency_85pct.png);
+	width:1000px;
+	margin: 1% auto;
+	
+	
+}
+
+h1
+{
+	margin:auto 0%;
+}
+
+header
+{
+	width: 96%;
+	height: 11%;
+	margin: 0% 2%;
+	
+}
+
+header h1
+{
+	align-content:center;
+	font-family: dj_grossnormal, "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:60px;
+	/*text-shadow: #fff 1px 1px;*/
+	font-weight:bold;
+}
+
+header span
+{
+	color:#09080C;
+}
+
+nav
+{
+	width:96%;
+	margin:  0% 1%;
+	padding:1%;
+	float:left;
+}
+
+ul
+{
+	width:1200px;
+	margin: 0px auto;
+}
+ 
+li
+{
+	list-style-type:none;
+	float:left;
+	margin: 0px 0px;
+	padding: 0px 1px;
+}
+
+li a
+{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color:white;
+	background-color:#767676;
+	width: 150px;
+	height: 20px;
+	display:block;
+	font-size: 15px;
+	border:solid 2px #31817E;
+	padding: 1px;
+	border-radius: 0px;
+	text-align:center;
+	text-decoration:none;
+	float:left;
+	
+}
+a:hover
+{	color:black;
+	background-color:orange;
+
+}
+
+#mainbody
+{
+	height:71%;
+	min-height: 600px;
+}
+
+#aside1
+{
+	width: 100%;
+	float:left;
+}
+
+#imgmagic
+{
+    width:100%;
+    align-content:center;
+    text-align:center;
+	height: 500px;
+	overflow: hidden;
+}
+
+.magic img
+{
+	width: 100%;
+	height: auto;
+}
+
+#aboutimg
+{
+	width:100%;
+    align-content:center;
+    text-align:center;
+	height: 400px;
+	overflow: hidden;
+}
+
+
+#section1
+{
+	height: 100%;
+	float:left;
+	width:100%;
+}
+
+
+#animeVid video
+{
+    width:540px;
+    display: block;
+    margin: 0px auto;
+	position:relative;
+}
+
+.video_poster
+{
+    width:100%;
+    height: auto;
+    background-size: 100% auto;
+}
+
+
+
+#section2
+{
+	height: 11%;
+	float:left;
+}
+
+#article1
+{
+	height: 76%;
+	float:left;
+	margin: 0% 1%;
+}
+
+#article1 .content
+{
+	-webkit-columns: 3 9em;
+  	-webkit-column-gap: 10px;
+  	-moz-column-count: 3;
+  	-moz-column-width: 9em;
+  	-moz-column-gap: 10px;
+	column-count: 3;
+	column-width: 9em;
+ 	column-gap: 10px; 
+}
+
+#article1 .content h1
+{
+	-webkit-column-span: all;
+  	-moz-column-span: all;
+}
+
+#article1 .content blockquote
+{
+	-webkit-column-span: all;
+  	-moz-column-span: all;
+}
+
+#innerright
+{
+	height: 76%;
+	float:left;
+	width:100%;
+}
+
+#article2
+{
+	height: 66%;
+	float:left;
+	width:100%;
+}
+
+#contactform
+{
+    
+	margin: 0px auto;
+	width:100%;
+}
+
+#contactform fieldset
+{
+    
+    margin:0px auto;
+	
+}
+
+#contactform table
+{
+	width:50%;
+	margin:0px 25%;
+}
+
+#contactform.labels
+{
+	
+}
+
+#contactform td
+{
+ 
+    
+	padding:1%;
+}
+
+
+
+#aside2 h3
+{
+	font-family: dj_grossnormal;
+}
+
+#aside2
+{
+	float:left;
+	margin: 0px auto;
+}
+
+#gallery
+{
+	width:900px;
+	float::left;
+	background-color: red;
+	padding-left:50px;
+}
+
+#gallery img
+{
+	width:200px;
+	float:left;
+	margin: 25px 50px;
+}
+
+#fancybox a
+{
+	width:200px;
+	float:left;
+	background-color:red;
+	border-bottom-color:#22AF97;
+	margin: 25px 50px;
+}
+	
+
+.images img
+{
+    height: 150px;
+    width: 200px;
+    overflow: hidden;
+}
+
+footer
+{
+	float:left;
+
+}
+
+footer h1
+{
+    margin: 0px 1%;
+}
+
+footer div
+{
+    align: center;
+    margin: 0% auto;
+}
+
+
+div .logo
+{
+    float:left;
+    height: 100px;
+    width: 200px;
+    overflow: hidden;
+    align-content: center;
+    margin:0px auto;
+}
+
+.logo img
+{
+    width: 100px;
+    height:auto;
+
+}
+
+img
+{
+
+    display:block;
+    margin: auto;
+}
+
+.adjust
+{
+	position:relative;
+	top:30px;
+}
